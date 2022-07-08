@@ -1,0 +1,453 @@
+{
+  "header": {
+    "topMenu": {
+      "phoneNumbers": [
+        {
+          "id": 1,
+          "city": "chișinău",
+          "phone": "022 210-210"
+        },
+        {
+          "id": 2,
+          "city": "balti",
+          "phone": "023 120-210"
+        },
+        {
+          "id": 3,
+          "city": "cahul",
+          "phone": "078 848-484"
+        },
+        {
+          "id": 4,
+          "city": "comrat",
+          "phone": "078 220-088"
+        },
+        {
+          "id": 5,
+          "city": "ceadâr_lunga",
+          "phone": "079 224-466"
+        }
+      ],
+      "brandListLogo": [
+        {
+          "id": 1,
+          "urlLink": "/",
+          "imgLink": "https://andys.md/assets/img/brands/LaPlacinte.svg",
+          "alt": "LaPlacinte Logo",
+          "className": "w-[86px]"
+        },
+        {
+          "id": 2,
+          "urlLink": "/",
+          "imgLink": "https://andys.md/assets/img/brands/CiaoCacao.svg",
+          "alt": "CiaoCacao Logo",
+          "className": "w-[64px]"
+        },
+        {
+          "id": 3,
+          "urlLink": "/",
+          "imgLink": "https://andys.md/assets/img/brands/Gustland.png",
+          "alt": "Gustland Logo",
+          "className": "w-[74px]"
+        }
+      ],
+      "topMenuLinks": [
+        {
+          "id": 1,
+          "urlLink": "/",
+          "link": "feedback"
+        },
+        {
+          "id": 2,
+          "urlLink": "/",
+          "link": "contacts"
+        },
+        {
+          "id": 3,
+          "urlLink": "/",
+          "link": "delivery"
+        }
+      ]
+    },
+    "bottomMenu": {
+      "bottomNavBar": [
+        {
+          "id": 1,
+          "urlLink": "/products",
+          "link": "menu",
+          "dropDownMenu": [
+            {
+              "id": 1,
+              "urlLink": "/products/pizza",
+              "link": "pizza"
+            },
+            {
+              "id": 2,
+              "urlLink": "/products/breakfast",
+              "link": "breakfast"
+            },
+            {
+              "id": 3,
+              "urlLink": "/products/snaks",
+              "link": "snaks"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "urlLink": "menu",
+          "link": "menu"
+        },
+        {
+          "id": 3,
+          "urlLink": "restaurants",
+          "link": "restaurants"
+        },
+        {
+          "id": 4,
+          "urlLink": "news",
+          "link": "news"
+        },
+        {
+          "id": 5,
+          "urlLink": "/",
+          "link": "services",
+          "dropDownMenu": [
+            {
+              "id": 1,
+              "urlLink": "/services/client-card",
+              "link": "client_card"
+            },
+            {
+              "id": 2,
+              "urlLink": "/services/corporate-clients",
+              "link": "corporate_clients"
+            },
+            {
+              "id": 3,
+              "urlLink": "/services/kids-parties",
+              "link": "kids_parties"
+            },
+            {
+              "id": 4,
+              "urlLink": "/services/banquets",
+              "link": "banquets"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "urlLink": "menu-in-restaurant",
+          "link": "menu_in_restaurant"
+        }
+      ]
+    }
+  },
+  "topSlider": [
+    {
+      "id": 1,
+      "imgUrl": "https://andys.md/public/sliders/thumbs/version_2560x916x1/20c0739f13d8a0327d0ed09fdf43c04a.jpg",
+      "linkUrl": "/"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "pizza",
+      "urlLink": "/products/pizza",
+      "items": [
+        {
+          "id": "11",
+          "imgUrl": "https://andys.md/public/menu/thumbs/version_220x310x1/c16804bcd0d47fce6c6d033b694a09fe.jpg",
+          "imgUrlBig": "https://andys.md/public/menu/thumbs/version_712x785x1/c16804bcd0d47fce6c6d033b694a09fe.jpg",
+          "imgAlt": "pizza",
+          "productName": "Rancho",
+          "productPrice": "105.00",
+          "description": {
+            "about": "rancho_about",
+            "gramm": "rancho_gramm"
+          }
+        },
+        {
+          "id": "12",
+          "imgUrl": "https://andys.md/public/menu/thumbs/version_220x310x1/9edc060af068da34bc5c8298755f11a2.jpg",
+          "imgUrlBig": "https://andys.md/public/menu/thumbs/version_712x785x1/9edc060af068da34bc5c8298755f11a2.jpg",
+          "imgAlt": "pizza",
+          "productName": "Neapolitana",
+          "productPrice": "110.00",
+          "description": {
+            "about": "neapolitana_about",
+            "gramm": "neapolitana_gramm"
+          }
+        },
+        {
+          "id": "13",
+          "imgUrl": "https://andys.md/public/menu/thumbs/version_220x310x1/abe848cde189206049cae70fee65b2ad.jpg",
+          "imgUrlBig": "https://andys.md/public/menu/thumbs/version_712x785x1/abe848cde189206049cae70fee65b2ad.jpg",
+          "imgAlt": "pizza",
+          "productName": "Greek",
+          "productPrice": "105.00",
+          "description": {
+            "about": "greek_about",
+            "gramm": "greek_gramm"
+          }
+        },
+        {
+          "id": "14",
+          "imgUrl": "https://andys.md/public/menu/thumbs/version_220x310x1/c16804bcd0d47fce6c6d033b694a09fe.jpg",
+          "imgUrlBig": "https://andys.md/public/menu/thumbs/version_712x785x1/c16804bcd0d47fce6c6d033b694a09fe.jpg",
+          "imgAlt": "pizza",
+          "productName": "Rancho",
+          "productPrice": "105.00",
+          "description": {
+            "about": "rancho_about",
+            "gramm": "rancho_gramm"
+          }
+        },
+        {
+          "id": "15",
+          "imgUrl": "https://andys.md/public/menu/thumbs/version_220x310x1/9edc060af068da34bc5c8298755f11a2.jpg",
+          "imgUrlBig": "https://andys.md/public/menu/thumbs/version_712x785x1/9edc060af068da34bc5c8298755f11a2.jpg",
+          "imgAlt": "pizza",
+          "productName": "Neapolitana",
+          "productPrice": "110.00",
+          "description": {
+            "about": "neapolitana_about",
+            "gramm": "neapolitana_gramm"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "breakfast",
+      "urlLink": "/products/breakfast",
+      "items": [
+        {
+          "id": "11",
+          "imgUrl": "https://andys.md/public/menu/thumbs/version_220x310x1/c16804bcd0d47fce6c6d033b694a09fe.jpg",
+          "imgUrlBig": "https://andys.md/public/menu/thumbs/version_712x785x1/9edc060af068da34bc5c8298755f11a2.jpg",
+          "imgAlt": "pizza",
+          "productName": "Pepper Bruschetta",
+          "productPrice": "90.00",
+          "description": {
+            "about": "pepper_bruschetta_about",
+            "gramm": "pepper_bruschetta_gramm"
+          }
+        },
+        {
+          "id": "12",
+          "imgUrl": "https://andys.md/public/menu/thumbs/version_220x310x1/9edc060af068da34bc5c8298755f11a2.jpg",
+          "imgUrlBig": "https://andys.md/public/menu/thumbs/version_712x785x1/9edc060af068da34bc5c8298755f11a2.jpg",
+          "imgAlt": "pizza",
+          "productName": "Bianca",
+          "productPrice": "85.00",
+          "description": {
+            "about": "bianca_about",
+            "gramm": "bianca_gramm"
+          }
+        },
+        {
+          "id": "13",
+          "imgUrl": "https://andys.md/public/menu/thumbs/version_220x310x1/abe848cde189206049cae70fee65b2ad.jpg",
+          "imgUrlBig": "https://andys.md/public/menu/thumbs/version_712x785x1/9edc060af068da34bc5c8298755f11a2.jpg",
+          "imgAlt": "pizza",
+          "productName": "Bacon Omelette",
+          "productPrice": "70.00",
+          "description": {
+            "about": "bacon_omelette_about",
+            "gramm": "bacon_omelette_gramm"
+          }
+        },
+        {
+          "id": "14",
+          "imgUrl": "https://andys.md/public/menu/thumbs/version_220x310x1/c16804bcd0d47fce6c6d033b694a09fe.jpg",
+          "imgUrlBig": "https://andys.md/public/menu/thumbs/version_712x785x1/9edc060af068da34bc5c8298755f11a2.jpg",
+          "imgAlt": "pizza",
+          "productName": "Vegetables Omelette",
+          "productPrice": "105.00",
+          "description": {
+            "about": "vegetables_omelette_about",
+            "gramm": "vegetables_omelette_gramm"
+          }
+        },
+        {
+          "id": "15",
+          "imgUrl": "https://andys.md/public/menu/thumbs/version_220x310x1/9edc060af068da34bc5c8298755f11a2.jpg",
+          "imgUrlBig": "https://andys.md/public/menu/thumbs/version_712x785x1/9edc060af068da34bc5c8298755f11a2.jpg",
+          "imgAlt": "pizza",
+          "productName": "Сottage Cheese Cakes & Salmon",
+          "productPrice": "110.00",
+          "description": {
+            "about": "cottage_cheese_cake_about",
+            "gramm": "cottage_cheese_cake_gramm"
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "snaks",
+      "urlLink": "/products/snaks", 
+      "items": [
+        {
+          "id": "11",
+          "imgUrl": "https://andys.md/public/menu/thumbs/version_220x310x1/c16804bcd0d47fce6c6d033b694a09fe.jpg",
+          "imgUrlBig": "https://andys.md/public/menu/thumbs/version_712x785x1/9edc060af068da34bc5c8298755f11a2.jpg",
+          "imgAlt": "pizza",
+          "productName": "Salmon bruschetta",
+          "productPrice": "45.00",
+          "description": {
+            "about": "salmon_bruschetta_about",
+            "gramm": "salmon_bruschetta_gramm"
+          }
+        },
+        {
+          "id": "12",
+          "imgUrl": "https://andys.md/public/menu/thumbs/version_220x310x1/9edc060af068da34bc5c8298755f11a2.jpg",
+          "imgUrlBig": "https://andys.md/public/menu/thumbs/version_712x785x1/9edc060af068da34bc5c8298755f11a2.jpg",
+          "imgAlt": "pizza",
+          "productName": "Pepper bruschetta",
+          "productPrice": "55.00",
+          "description": {
+            "about": "pepper_bruschetta_about",
+            "gramm": "pepper_bruschetta_gramm"
+          }
+        },
+        {
+          "id": "13",
+          "imgUrl": "https://andys.md/public/menu/thumbs/version_220x310x1/abe848cde189206049cae70fee65b2ad.jpg",
+          "imgUrlBig": "https://andys.md/public/menu/thumbs/version_712x785x1/9edc060af068da34bc5c8298755f11a2.jpg",
+          "imgAlt": "pizza",
+          "productName": "Chicken sandwich",
+          "productPrice": "65.00",
+          "description": {
+            "about": "chicken_sandwich_about",
+            "gramm": "chicken_sandwich_gramm"
+          }
+        },
+        {
+          "id": "14",
+          "imgUrl": "https://andys.md/public/menu/thumbs/version_220x310x1/c16804bcd0d47fce6c6d033b694a09fe.jpg",
+          "imgUrlBig": "https://andys.md/public/menu/thumbs/version_712x785x1/9edc060af068da34bc5c8298755f11a2.jpg",
+          "imgAlt": "pizza",
+          "productName": "Ham sandwich",
+          "productPrice": "90.00",
+          "description": {
+            "about": "ham_sandwich_about",
+            "gramm": "ham_sandwich_gramm"
+          }
+        },
+        {
+          "id": "15",
+          "imgUrl": "https://andys.md/public/menu/thumbs/version_220x310x1/9edc060af068da34bc5c8298755f11a2.jpg",
+          "imgUrlBig": "https://andys.md/public/menu/thumbs/version_712x785x1/9edc060af068da34bc5c8298755f11a2.jpg",
+          "imgAlt": "pizza",
+          "productName": "Potato surprise with cheese",
+          "productPrice": "50.00",
+          "description": {
+            "about": "potato_surprise_about",
+            "gramm": "potato_surprise_gramm"
+          }
+        }
+      ]
+    }
+  ],
+  "bottomSlider": [
+    {
+      "id": 1,
+      "imgUrl": "./img/atmosfera.jpeg",
+      "title": "Andy's Life style",
+      "about": "present_about1"
+    }
+  ],
+  "footer": [
+    {
+      "id": 21,
+      "footerNavTitle": "company",
+      "footerNavList": [
+        {
+          "id": 51,
+          "urlLink": "/",
+          "titleLink": "career"
+        },
+        {
+          "id": 52,
+          "urlLink": "/",
+          "titleLink": "feedback"
+        },
+        {
+          "id": 53,
+          "urlLink": "/",
+          "titleLink": "contacts"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "footerNavTitle": "services",
+      "footerNavList": [
+        {
+          "id": 61,
+          "urlLink": "/",
+          "titleLink": "client_card"
+        },
+        {
+          "id": 62,
+          "urlLink": "/",
+          "titleLink": "corporate_clients"
+        },
+        {
+          "id": 63,
+          "urlLink": "/",
+          "titleLink": "kids_parties"
+        },
+        {
+          "id": 64,
+          "urlLink": "/",
+          "titleLink": "banquets"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "footerNavTitle": "delivery",
+      "footerNavList": [
+        {
+          "id": 71,
+          "urlLink": "/",
+          "titleLink": "chișinău"
+        },
+        {
+          "id": 72,
+          "urlLink": "/",
+          "titleLink": "balti"
+        },
+        {
+          "id": 73,
+          "urlLink": "/",
+          "titleLink": "cahul"
+        },
+        {
+          "id": 74,
+          "urlLink": "/",
+          "titleLink": "comrat"
+        },
+        {
+          "id": 75,
+          "urlLink": "/",
+          "titleLink": "ceadâr_lunga"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "name": "vadim",
+      "phone_number": "121-212-121",
+      "email": "vadim@vadim.com",
+      "check_password": "12345678Aa!",
+      "id": 1
+    }
+  ]
+}
